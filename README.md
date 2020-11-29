@@ -1,2 +1,2 @@
-# ThreeJsAssignment
+
 ![](Images/ShapesExample.png)
